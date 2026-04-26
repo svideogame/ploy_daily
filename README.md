@@ -1,51 +1,51 @@
 # 📈 Polymarket Intelligence Briefing
 
-> *Microsoft Earnings Forecast Shows Strong Market Confidence*
+> *Market trends indicate strong probabilities for upcoming events*
 >
 > 📅 2026-04-26 · Data: [Polymarket](https://polymarket.com)
 
 
 ## 📊 Market Overview
 
-| # | Contract | Consensus Outcome | Implied Probability | Implied Edge % | Liquidity ($) | Days to Settlement | Flow Signal |
-|---|----------|-------------------|---------------------|----------------|---------------|-------------------|------------|
-| 1 | [Will Microsoft (MSFT) beat quarterly earnings?](https://polymarket.com/event/msft-quarterly-earnings-gaap-eps-04-29-2026-4pt05) | Yes | 93.5% | 7.0% | $6,030 | 3d | 12 |
-| 2 | [Will Silver (XAGUSD) hit (LOW) $68 in April?](https://polymarket.com/event/will-xagusd-dip-to-68-in-april-2026) | No | 92.0% | 8.7% | $5,536 | 4d | 30 |
-| 3 | [Will April 2026 be the 1st hottest on record?](https://polymarket.com/event/will-april-2026-be-the-1st-hottest-on-record) | No | 97.5% | 2.5% | $6,129 | 13d | 6 |
-| 4 | [Spread: Real Sociedad de Fútbol (-2.5)](https://polymarket.com/event/lal-ray-rso-2026-04-26-spread-away-2pt5) | Rayo Vallecano de Madrid | 93.5% | 7.0% | $36,152 | 0d | 100 🚨 |
-| 5 | [Will the price of Bitcoin be above $72,000 on April 29?](https://polymarket.com/event/bitcoin-above-72k-on-april-29) | Yes | 98.0% | 2.0% | $26,925 | 3d | 12 |
+| # | Contract | Market Consensus | Implied Probability | Statistical Variance | Liquidity ($) | Observation Window | CFI |
+|---|----------|------------------|---------------------|----------------|---------------|-------------------|------------|
+| 1 | [Will Leeds United FC win on 2026-04-25?](https://polymarket.com/event/efa-cfc-lee-2026-04-25-lee) | No | 74.5% | 34.2% | $490,540 | 0d | 100 🚨 |
+| 2 | [Spread: Real Sociedad de Fútbol (-2.5)](https://polymarket.com/event/lal-ray-rso-2026-04-26-spread-away-2pt5) | Rayo Vallecano de Madrid | 93.5% | 7.0% | $63,594 | 0d | 100 🚨 |
+| 3 | [Will Silver (XAGUSD) hit (LOW) $68 in April?](https://polymarket.com/event/will-xagusd-dip-to-68-in-april-2026) | No | 92.0% | 8.7% | $5,535 | 4d | 30 |
+| 4 | [Will Microsoft (MSFT) beat quarterly earnings?](https://polymarket.com/event/msft-quarterly-earnings-gaap-eps-04-29-2026-4pt05) | Yes | 93.5% | 7.0% | $5,957 | 3d | 12 |
+| 5 | [Will the Labour Party win control of the most London borough councils?](https://polymarket.com/event/will-the-labour-party-win-control-of-the-most-london-borough-councils) | Yes | 77.0% | 29.9% | $14,312 | 10d | 53 |
 
 ## 📋 Market Analysis
 
-### Market 1: Will Microsoft (MSFT) beat quarterly earnings?
+### Market 1: Will Leeds United FC win on 2026-04-25?
 
-**Best Outcome:** Yes (93.5%)
+**Best Outcome:** No (74.5%)
 
-The market is highly confident that Microsoft will beat its quarterly earnings estimate of $4.05, reflected in a 93.5% best outcome probability. With only three days left and $6,030 in liquidity, sentiment is skewed positively despite a low insider signal of 12/100, indicating potential uncertainty. Investors are likely banking on Microsoft's strong fundamentals and recent performance, but any unexpected macroeconomic factors could pose risks to this outlook.
+Leeds United FC's market shows an implied probability of 74.5% for a 'No' outcome in their April 25, 2026 match. The liquidity depth stands at $490,540, indicating considerable market engagement. Given the insider signal of 100/100, the order flow suggests a strong consensus against a Leeds victory. A surprise in game performance could lead to significant adjustments in implied probabilities.
 
-### Market 2: Will Silver (XAGUSD) hit (LOW) $68 in April?
-
-**Best Outcome:** No (92.0%)
-
-With a 92% probability of not hitting $68 in April, market sentiment is firmly bearish on Silver prices. Liquidity is moderate at $5,536, and days are running short with only four left until resolution. The insider signal of 30/100 suggests some skepticism among traders. Key risks include fluctuating demand for silver and potential economic data releases that could influence prices, but current trends favor a stable or declining silver market.
-
-### Market 3: Will April 2026 be the 1st hottest on record?
-
-**Best Outcome:** No (97.5%)
-
-The market overwhelmingly believes that April 2026 will not be the hottest on record, with a 97.5% probability assigned. The liquidity of $6,129 and an insider signal of 6/100 indicate low confidence in temperature anomalies. The consensus reflects historical climate data trends, though unexpected weather patterns could alter the outcome. The crowd sentiment leans towards cooler conditions, aligning with broader climate patterns observed in previous years.
-
-### Market 4: Spread: Real Sociedad de Fútbol (-2.5)
+### Market 2: Spread: Real Sociedad de Fútbol (-2.5)
 
 **Best Outcome:** Rayo Vallecano de Madrid (93.5%)
 
-In the upcoming La Liga match, the market heavily favors Rayo Vallecano de Madrid with a 93.5% probability of covering the -2.5 spread against Real Sociedad de Fútbol. With an impressive liquidity of $36,152 and a perfect insider signal of 100/100, confidence is high. The crowd sentiment appears overwhelmingly supportive of Rayo Vallecano, but an upset or unexpected performance from Real Sociedad could present a significant risk to this prediction.
+The market for Real Sociedad de Fútbol against Rayo Vallecano shows a 93.5% implied probability favoring Rayo Vallecano winning by 3 or more goals. With liquidity at $63,594 and a perfect insider signal of 100/100, the current positioning reflects strong confidence in Rayo Vallecano's performance. Any unexpected outcomes could lead to rapid changes in market sentiment and pricing.
 
-### Market 5: Will the price of Bitcoin be above $72,000 on April 29?
+### Market 3: Will Silver (XAGUSD) hit (LOW) $68 in April?
 
-**Best Outcome:** Yes (98.0%)
+**Best Outcome:** No (92.0%)
 
-The market shows strong optimism that Bitcoin will exceed $72,000 on April 29, with a best outcome probability of 98%. With $26,925 in liquidity and three days remaining, investor confidence is notably high despite a low insider signal of 12/100. This suggests a cautious yet bullish sentiment, driven by potential positive market conditions and anticipated demand. However, volatility in cryptocurrency markets remains a key risk factor that could impact price movements.
+For Silver (XAGUSD), the market reflects a 92.0% implied probability for a 'No' outcome regarding the price hitting $68 in April 2026. The liquidity is notably lower at $5,535, suggesting limited capital flow. The insider signal of 30/100 indicates mixed market sentiment. A sharp movement in silver prices could drastically alter these expectations.
+
+### Market 4: Will Microsoft (MSFT) beat quarterly earnings?
+
+**Best Outcome:** Yes (93.5%)
+
+Microsoft (MSFT) shows a strong implied probability of 93.5% for beating quarterly earnings, with liquidity at $5,957. The insider signal at 12/100 suggests some skepticism in the market despite the high probability. A significant deviation from the consensus EPS estimate of $4.05 could compress the implied probabilities rapidly.
+
+### Market 5: Will the Labour Party win control of the most London borough councils?
+
+**Best Outcome:** Yes (77.0%)
+
+The Labour Party's market indicates a 77.0% implied probability of winning control of the most London borough councils in the May 7, 2026 elections. With liquidity at $14,312 and an insider signal of 53/100, the market reflects a moderate level of confidence. An unexpected swing in voter sentiment could lead to sharp movements in implied probabilities leading up to the election.
 
 
 ---
